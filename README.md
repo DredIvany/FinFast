@@ -1,1 +1,1 @@
-# FinJet
+# FinFast
