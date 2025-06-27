@@ -10,6 +10,7 @@ obj/
 
 # VS Code settings
 .vscode/
+.vs/
 
 # Database files
 *.mdf
@@ -18,6 +19,7 @@ obj/
 # Sensitive config files (keep templates if needed)
 appsettings.json
 appsettings.Development.json
+api.http
 
 # Logs
 *.log
